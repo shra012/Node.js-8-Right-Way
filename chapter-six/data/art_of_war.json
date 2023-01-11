@@ -1,0 +1,28 @@
+{
+  "id": 132,
+  "title": "The Art of War",
+  "authors": [
+    "Sunzi, active 6th century B.C.",
+    "Giles, Lionel"
+  ],
+  "subjects": [
+    "Military art and science -- Early works to 1800",
+    "War -- Early works to 1800"
+  ],
+  "lcc": "U",
+  "formats": {
+    "htmlImages": "https://www.gutenberg.org/ebooks/132.html.images",
+    "htmlNoImages": "https://www.gutenberg.org/files/132/132-h/132-h.htm",
+    "epub3Images": "https://www.gutenberg.org/ebooks/132.epub3.images",
+    "epubImages": "https://www.gutenberg.org/ebooks/132.epub.images",
+    "epubNoImages": "https://www.gutenberg.org/ebooks/132.epub.noimages",
+    "kindleImages": "https://www.gutenberg.org/ebooks/132.kf8.images",
+    "kindleOldImages": "https://www.gutenberg.org/ebooks/132.kindle.images",
+    "kindleNoImages": "https://www.gutenberg.org/ebooks/132.kindle.noimages",
+    "textUTF8": "https://www.gutenberg.org/ebooks/132.txt.utf-8",
+    "text-0": "https://www.gutenberg.org/files/132/132-0.txt",
+    "rdf": "https://www.gutenberg.org/ebooks/132.rdf",
+    "zip-0": "https://www.gutenberg.org/files/132/132-0.zip",
+    "zip-h": "https://www.gutenberg.org/files/132/132-h.zip"
+  }
+}
